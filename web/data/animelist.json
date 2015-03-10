@@ -1,0 +1,42 @@
+[
+    { 
+        "id": "kan",
+        "name": "Kantai Collection",
+        "pic":"img/kancolle.jpg",
+        "pic2":"img/kan2.png",
+        "trial":"MxHYEwYC1Dw",
+        "snippet":"The series features Fubuki as the main character, with the storyline based on her point of view.In a world where humanity faces the threat of the abyssal fleet which has taken over the seas, special human girls who don weaponized outfits and possess the spirit of historical naval vessels known as kanmusu are the only ones capable of countering them. The kanmusu live together at a naval base, where they spend their everyday lives as they train for battle."
+    },
+    {
+        "id":"sensei",
+        "name":"Ansatsu Kyoushitsu",
+        "pic":"img/sensei.jpg",
+        "pic2":"img/an2.jpg",
+        "trial":"eu4Qy8fIvNk",
+        "snippet" : "The Earth is threatened by a powerful creature who destroyed 70% of the Moon with its power, rendering into the shape of a crescent moon forever. The creature claims that within a year, Earth will also be destroyed by him, but he offers mankind a chance to avert this fate. In class 3-E at Kunugigaoka Junior High School, he starts working as a homeroom teacher where he teaches his students not only regular subjects, but the ways of assassination. The Japanese government promises a reward of ¥10 billion (i.e. 100 million USD) to whomever among the students succeeds in killing the teacher. "
+    },
+    {
+        "id":"dog",
+        "name":"Dog Day Season 3",
+        "pic":"img/dog.jpg",
+        "pic2":"img/dog2.jpg",
+        "trial":"x0eBIA95M4o",
+        "snippet":"Cinque Izumi is a cheerful and athletic half-Japanese, half-Cornish boy who studies at Kinokawa International School in Japan, and has a normal life everyday until he suddenly got summoned to the alternate world of Flonyard. The people there look no different from humans, except for one thing; they have animal ears and tails. The one who summoned him is Millhiore, the dog-like Princess of the Biscotti Republic, who requested his assistance in their war against the forces of the feline-like Galette Lion Dominion."
+    },
+    {
+        "id":"gundam",
+        "name":"Gundam Build Fighter Try",
+        "pic":"img/gun.jpg",
+        "pic2":"img/gun2.jpg",
+        "trial":"XKMwhn7hFhc",
+        "snippet":"Seven years after the events of Gundam Build Fighters, the rules of Gunpla have been renewed, and the sport becomes even more popular. However, one academy is left behind in this change, and that was Seiho Academy, which Sei Iori once attended. The only member of the Gunpla Battle Club remaining is Fumina Hoshino, who befriends Sekai Kamiki, a boy who has been training with his master in martial arts and the young Gunpla builder Yuuma Kousaka, and together, they attempt to secure a place in the world championship as the Try Fighters."
+    },
+    {
+        "id":"durarara",
+        "name":"Durarara!!x2 Shou",
+        "pic":"img/durarara.jpg",
+        "pic2":"img/durara2.jpg",
+        "trial":"nCUHLDDK8o8",
+        "snippet":"Mikado Ryūgamine, a young boy who longs for the exciting life of the big city moves to Ikebukuro to attend Raira Academy with his childhood friend Masaomi Kida, who he has not seen since he was young. After the two meet at the train station, they set out at night to the streets of Ikebukuro. Masaomi warns Mikado about people he doesn't want to cross in the city, such as the violent and superhumanly strong man Shizuo Heiwajima, the information broker Izaya Orihara, and the mysterious gang known as The Dollars. "
+    }
+]

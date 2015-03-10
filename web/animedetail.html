@@ -1,0 +1,30 @@
+<a href="#/animelists"> <button>BACK</button> </a>
+<p></p>
+<div class="transbox" ng-show="animeDetail"> <!-- show detail -->
+    <div>   
+        <img src="{{animeDetail.pic2}}" width="260" height="345" align="right"/>
+        <p><span><b>{{animeDetail.name}}</b></span></p> 
+        <div>{{animeDetail.snippet}}</div>        
+    </div>
+    
+    <h3>Trailer</h3> 
+    <!--display youtube embedded link from app -->
+    <div my-youtube code="code"></div>
+    
+    <p></p>
+    
+    <!-- show wiki link -->
+    <div class="btn-group">
+            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                More Detail 
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu">
+                <li>
+                <a href="http://en.wikipedia.org/wiki/{{animeDetail.name}}">http://en.wikipedia.org/wiki/{{animeDetail.name}}</a>
+                </li>
+            </ul>
+    </div>
+    
+    <p></p>
+</div>
